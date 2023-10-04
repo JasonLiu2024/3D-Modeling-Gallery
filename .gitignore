@@ -1,0 +1,12 @@
+*.mov
+*.ply
+*.off
+.DS_Store
+*.tiff
+*.mlp
+*.blend
+*.blend1
+*.txt
+*.txt
+*.obj
+*.json
